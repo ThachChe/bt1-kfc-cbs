@@ -1,0 +1,36 @@
+#gioi-thieu{
+    background-color: rgb(141, 40, 40);
+    height: 100%;
+}
+
+#tieu_de {
+    text-align: center;
+    font-size: 400%;
+    font-weight: bold; 
+    /* in dam */
+    margin-bottom: 0; 
+    /* keo xuong phan style margin chiem 48px thi cho = 0 thi se khong con cho
+     */
+}
+
+.gioiThieu p{
+    font-size: 200%;
+    color: aliceblue;
+}
+
+#phat-trien{
+    background-color: rgb(141, 40, 40);
+    height: 100%;
+}
+
+#phat-trien >p{
+    text-align: center;
+    font-size: 250%;
+    text-transform: uppercase;
+    color:aliceblue;
+}
+
+#phat-trien ul{
+    font-size: 200%;
+    color: aliceblue;
+}
